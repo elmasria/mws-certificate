@@ -1,0 +1,17 @@
+{
+  "name": "mws",
+  "version": "1.0.0",
+  "description": "Mobile Web specialist certification",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad EL Masri",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "sw-precache": "^5.2.1"
+  }
+}
